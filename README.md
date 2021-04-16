@@ -5,10 +5,10 @@ This project is developed on Python Platform. This is a simple BMI calculation t
 
 ## Setup
 ###### Clone the Repo
-> $ **git clone https://github.com/abasu17/code-26_feb_2021-Aniket_Basu.git**
+> $ **git clone https://github.com/abasu17/code-16_apr_2021-Aniket_Basu.git**
 
 ###### Change PWD
-> $ **cd code-26_feb_2021-Aniket_Basu/dist**
+> $ **cd code-16_apr_2021-Aniket_Basu/dist**
 
 ###### Install the package
 > $ **pip3 install bmi_calculator-0.0.0-py3-none-any.whl**
